@@ -75,7 +75,6 @@ Employee-Management-System/
 - Update employee information
 - Delete employee records
 - View employee details in a responsive table
-- Search and filter employees
 
 ### Data Management
 - Persistent storage of employee data via Spring Boot backend
